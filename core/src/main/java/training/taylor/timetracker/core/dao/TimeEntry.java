@@ -2,7 +2,7 @@ package training.taylor.timetracker.core.dao;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
-
+// Anupam Guin
 @Component
 @Scope("prototype")
 public class TimeEntry {
